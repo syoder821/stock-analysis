@@ -12,9 +12,9 @@ To refactor the initial code generated to analysis the total daily volume and ye
   - 2017 Stock analysis runtime (refactored script): 0.15 seconds
   - 2018 Stock analysis runtime (intial script): 1 second
   - 2017 Stock analysis runtime (refactored script): 0.17 seconds
-  - Runtime improvement
-- All stocks with the exception of TERP had positive returns in 2017
-- All stocks with the exception of ENPH and RUN had negative returns in 2018.  Only ENPH and RUN had positive returns in both years
+  - Results show a significant decrease in runtime for the refactored script of almost a factor of 10. 
+- All stocks with the exception of TERP had positive returns in 2017.
+- All stocks with the exception of ENPH and RUN had negative returns in 2018.  Only ENPH and RUN had positive returns in both years.
 
 ### 2017 Stock Analysis
 ![Alt Text](https://github.com/syoder821/stock-analysis/blob/main/VBA_Challenge_2017.png)
