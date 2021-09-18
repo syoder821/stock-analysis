@@ -4,7 +4,7 @@
 Extract the total daily volume and yearly return for each stock in the dataset provided by the client.  Create a VBA macro to provide the information based on year with a simply button click in the excel sheet. Output the information in a formatted table in order to better visualize the stocks with the highest and lowest yearly return.  Additional request to refactor the code to make sure it is scalable for much larger data sets of stocks.      
 
 ### Purpose
-To refactor the initial code generated to analysis the total daily volume and yearly return of the stocks provided in the data set to be scalable for much larger data sets.  Demonstrate and document the reduced runtime with the refactored code.  
+To refactor the initial code generated to analyze the total daily volume and yearly return of the stocks provided in the data set to be scalable for much larger data sets.  Demonstrate and document the reduced runtime with the refactored code.  
 
 ## Results
 - Comparision of the runtime of the intial code vs the refactored code:
@@ -32,4 +32,4 @@ To refactor the initial code generated to analysis the total daily volume and ye
 
 - Some general disadvantages of refactoring code are it can be risky when the application is big, when the existing code doesn't have proper test cases, and the developers do not fully understand the code. 
  
-- In this case the main advantage of the refactored VBA script for the Stock-Analysis is the decrease in run time by almost a factor of 10. The is reduction in runtime for greatly improve the scalibility of the code for analysis of larger number of stocks.  
+- In this case the main advantage of the refactored VBA script for the Stock-Analysis is the decrease in run time by almost a factor of 10. This reduction in runtime greatly improves the scalibility of the code for analysis of larger number of stocks.  
